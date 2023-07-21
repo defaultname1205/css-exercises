@@ -1,0 +1,20 @@
+.class, .even{
+    background-color: #ffcccb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.even {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#second-id {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourth-id {
+    background-color: lime;
+    font-size: 24px;
+    font-weight: bold;
+}
